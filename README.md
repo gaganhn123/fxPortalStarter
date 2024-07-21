@@ -14,3 +14,7 @@ This project demonstrates how to use the fxPortal contracts to transfer ERC721A 
 9. Use polyscan.com to check your account for the tokens. Once they arrive, you can click on the transaction to get the contract address for polygon.
 10. Use this polygon contract address for your getBalance script's tokenAddress
 11. Run npx hardhat run scripts/getBalance.js --network amoy to see the new polygon balance
+
+Author- gaganhn2004@gmail.com
+
+License - MIT
